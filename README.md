@@ -1,2 +1,6 @@
 # Hangman
-An application where you can play Hangman on Android
+An application where you can play Hangman.
+
+Utilized C# and .NET MAUI.
+
+Work on Android devices.
